@@ -1,2 +1,2 @@
-# Estrutura-de-Dados-Avan-ada
+# Estrutura deDados Avançada
 Todos os trabalhos da disciplina de Estrutura de Dados Avançada
