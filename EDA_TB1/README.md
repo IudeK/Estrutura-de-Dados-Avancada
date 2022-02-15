@@ -23,9 +23,9 @@ tipo árvore. Sendo este arranjo de pedidos vinculado ao registro de cada client
 A empresa pode realizar algumas operações, tais como:
 
 • Cadastro de Cliente e Pedido: um cliente não pode ser cadastrado sem pelo menos uma 
-ordem de pedido.
+ordem de pedido.<br>
 • Cadastro de Pedido: vincula uma ordem de serviço de um produto para um cliente já 
-cadastrado.
+cadastrado.<br>
 • Atualização de um Pedido: mudança de status ou da quantidade do item de um pedido 
-realizado cujo os status está ainda em aberto (em andamento).
+realizado cujo os status está ainda em aberto (em andamento).<br>
 • Visualizar todo os Pedidos já realizados por um cliente.
