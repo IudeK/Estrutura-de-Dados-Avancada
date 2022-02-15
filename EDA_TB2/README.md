@@ -1,18 +1,9 @@
-## Getting Started
+*implementado usando arvore B
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# Dado o cenário da atividade 1, adapte sua solução construída anteriormente para fazer uso de
+uma árvore B ou um heap simples.<br><br>
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Estruturas de uso: Deverão ser aplicados, para a resolução dessa atividade, uma ou mais
+estruturas abordadas no Módulo 1 (Árvore B e Heap Simples). Todas as estruturas utilizadas na
+implementação deverão ser construídas, ou seja, não devem ser utilizados APIs, bibliotecas ou
+módulos construídos por terceiros.
