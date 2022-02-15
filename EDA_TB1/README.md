@@ -1,4 +1,4 @@
-*implementado Utilizando Arvore Avl e Hash
+* implementado Utilizando Arvore Avl e Hash
 
 
 Uma empresa de Arte Gráfica expandiu os seus serviços e aumentou sua cartela de clientes. Buscando melhorar a gestão de seus dados a empresa 
