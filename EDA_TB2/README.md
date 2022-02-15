@@ -1,4 +1,4 @@
-*implementado usando arvore B
+* implementado usando arvore B
 
 # Dado o cenário da atividade 1, adapte sua solução construída anteriormente para fazer uso de
 uma árvore B ou um heap simples.<br><br>
